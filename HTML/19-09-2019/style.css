@@ -1,0 +1,27 @@
+.index1{
+    background-color:blue;
+    height:100px;
+    border:2px solid tomato;
+}
+.ten{
+    text-align: center;
+}
+.index2{
+    background-color:aqua;
+    width:30%;
+    height:500px;
+    float: left;
+}
+.index3{
+    width:70%;
+    height:500px;
+    background-color: blueviolet;
+    float: right;
+}
+.index4{
+    background-color:brown;
+    float: unset;"
+}
+.ten1{
+    color:black;
+}
